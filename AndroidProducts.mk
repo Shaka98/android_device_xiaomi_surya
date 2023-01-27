@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/blaze_surya.mk
+    $(LOCAL_DIR)/aosp_surya.mk
 
 COMMON_LUNCH_CHOICES := \
-    blaze_surya-user \
-    blaze_surya-userdebug \
-    blaze_surya-eng
+    aosp_surya-user \
+    aosp_surya-userdebug \
+    aosp_surya-eng
